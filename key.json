@@ -1,8 +1,8 @@
 {
     "keys": [
-        { "id": "81351423602117842811", "licenseKey": "1234" },
-		{ "id": "8135142", "licenseKey": "123SFSE4" },
-        { "id": "TESTe", "licenseKey": "ANOTHER_LICENSE_KEY" }
+        { "id": "813514236021178428", "licenseKey": "1234" },
+		{ "id": "id2", "licenseKey": "KEY" },
+        { "id": "ID3", "licenseKey": "KEY" }
     ]
 }
  
